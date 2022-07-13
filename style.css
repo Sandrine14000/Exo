@@ -1,7 +1,8 @@
 header{
-    background-image: url(imgTest/Phare.jpg);
+    background-image: url(imgTest/Phare\ copie.jpg);
     background-repeat: no-repeat;
     padding: 10%;
+    padding-bottom: 20%;
 }
 h1{
     font-family: 'Roboto', sans-serif;
@@ -80,4 +81,5 @@ img{
     border-color: grey;
     margin-left: 50%;
     margin-right: 50%;
+    padding: 1% 3%;
 }
